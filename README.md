@@ -1,2 +1,3 @@
 # Guess Number
- Guess The Number
+ - Guess a Random Number
+ - Gives User 3 Attempts
